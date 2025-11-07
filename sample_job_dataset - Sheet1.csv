@@ -1,0 +1,51 @@
+job_id,title,description,skills_required,experience_level
+J001,Data Analyst,Analyze datasets using Python and SQL,"Python, SQL, PowerBI",Mid
+J002,ML Engineer,Develop ML models using PyTorch,"Python, ML, PyTorch",Senior
+J003,Cloud Engineer,Design and maintain cloud systems,"AWS, Azure, Docker",Senior
+J004,DevOps Engineer,Manage CI/CD and cloud infrastructure,"Docker, AWS, CI/CD",Senior
+J005,Backend Developer,Build APIs using FastAPI,"FastAPI, SQL, REST",Mid
+J006,Data Scientist,Perform data cleaning and modeling,"Python, Pandas, Scikit-learn",Senior
+J007,DevOps Engineer,Manage CI/CD and cloud infrastructure,"Docker, AWS, CI/CD",Senior
+J008,Cybersecurity Analyst,Monitor and secure IT infrastructure,"Network Security, Python, SIEM",Mid
+J009,AI Researcher,Research and develop AI models,"Python, TensorFlow, NLP",Senior
+J010,Cloud Engineer,Design and maintain cloud systems,"AWS, Azure, Docker",Senior
+J011,Business Analyst,Analyze business data and KPIs,"Excel, SQL, PowerBI",Mid
+J012,Data Scientist,Perform data cleaning and modeling,"Python, Pandas, Scikit-learn",Senior
+J013,Backend Developer,Build APIs using FastAPI,"FastAPI, SQL, REST",Mid
+J014,Backend Developer,Build APIs using FastAPI,"FastAPI, SQL, REST",Mid
+J015,Cybersecurity Analyst,Monitor and secure IT infrastructure,"Network Security, Python, SIEM",Mid
+J016,DevOps Engineer,Manage CI/CD and cloud infrastructure,"Docker, AWS, CI/CD",Senior
+J017,Business Analyst,Analyze business data and KPIs,"Excel, SQL, PowerBI",Mid
+J018,Cloud Engineer,Design and maintain cloud systems,"AWS, Azure, Docker",Senior
+J019,Frontend Developer,Develop interfaces using React,"React, JavaScript, CSS",Mid
+J020,Cybersecurity Analyst,Monitor and secure IT infrastructure,"Network Security, Python, SIEM",Mid
+J021,Cloud Engineer,Design and maintain cloud systems,"AWS, Azure, Docker",Senior
+J022,Cloud Engineer,Design and maintain cloud systems,"AWS, Azure, Docker",Senior
+J023,ML Engineer,Develop ML models using PyTorch,"Python, ML, PyTorch",Senior
+J024,Data Analyst,Analyze datasets using Python and SQL,"Python, SQL, PowerBI",Mid
+J025,AI Researcher,Research and develop AI models,"Python, TensorFlow, NLP",Senior
+J026,Business Analyst,Analyze business data and KPIs,"Excel, SQL, PowerBI",Mid
+J027,DevOps Engineer,Manage CI/CD and cloud infrastructure,"Docker, AWS, CI/CD",Senior
+J028,Business Analyst,Analyze business data and KPIs,"Excel, SQL, PowerBI",Mid
+J029,Data Scientist,Perform data cleaning and modeling,"Python, Pandas, Scikit-learn",Senior
+J030,DevOps Engineer,Manage CI/CD and cloud infrastructure,"Docker, AWS, CI/CD",Senior
+J031,DevOps Engineer,Manage CI/CD and cloud infrastructure,"Docker, AWS, CI/CD",Senior
+J032,AI Researcher,Research and develop AI models,"Python, TensorFlow, NLP",Senior
+J033,Data Scientist,Perform data cleaning and modeling,"Python, Pandas, Scikit-learn",Senior
+J034,AI Researcher,Research and develop AI models,"Python, TensorFlow, NLP",Senior
+J035,Frontend Developer,Develop interfaces using React,"React, JavaScript, CSS",Mid
+J036,Cloud Engineer,Design and maintain cloud systems,"AWS, Azure, Docker",Senior
+J037,Cybersecurity Analyst,Monitor and secure IT infrastructure,"Network Security, Python, SIEM",Mid
+J038,Business Analyst,Analyze business data and KPIs,"Excel, SQL, PowerBI",Mid
+J039,AI Researcher,Research and develop AI models,"Python, TensorFlow, NLP",Senior
+J040,Backend Developer,Build APIs using FastAPI,"FastAPI, SQL, REST",Mid
+J041,Backend Developer,Build APIs using FastAPI,"FastAPI, SQL, REST",Mid
+J042,Data Scientist,Perform data cleaning and modeling,"Python, Pandas, Scikit-learn",Senior
+J043,Cloud Engineer,Design and maintain cloud systems,"AWS, Azure, Docker",Senior
+J044,Data Scientist,Perform data cleaning and modeling,"Python, Pandas, Scikit-learn",Senior
+J045,DevOps Engineer,Manage CI/CD and cloud infrastructure,"Docker, AWS, CI/CD",Senior
+J046,Cloud Engineer,Design and maintain cloud systems,"AWS, Azure, Docker",Senior
+J047,Data Scientist,Perform data cleaning and modeling,"Python, Pandas, Scikit-learn",Senior
+J048,Data Scientist,Perform data cleaning and modeling,"Python, Pandas, Scikit-learn",Senior
+J049,DevOps Engineer,Manage CI/CD and cloud infrastructure,"Docker, AWS, CI/CD",Senior
+J050,Business Analyst,Analyze business data and KPIs,"Excel, SQL, PowerBI",Mid

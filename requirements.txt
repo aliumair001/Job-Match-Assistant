@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+pandas
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+streamlit
